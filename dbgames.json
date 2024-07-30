@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Doom",
+      "descricao": "Combate intenso em primeira pessoa com demônios, armas destrutivas e modos multijogador.",
+      "foto": "jogo6.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Mario Kart",
+      "descricao": "Corridas emocionantes com Mario e amigos em pistas desafiadoras.",
+      "foto": "jogo10.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Assassin's Creed III",
+      "descricao": "É o quinto jogo principal da série e a continuação direta de Assassin's Creed: Revelations de 2011.",
+      "foto": "jogo8.PNG",
+      "preco": 350
+    },
+    {
+      "id": 4,
+      "produto": "jogo Modificado",
+      "descricao": "Em uma era de máquinas dominantes, a jovem caçadora Aloy embarca em uma jornada para desvendar seu destino.",
+      "foto": "jogo7.PNG",
+      "preco": 230
+    },
+    {
+      "id": 5,
+      "produto": "Donkey Kong ",
+      "descricao": "Corridas frenéticas com personagens do universo Donkey Kong.",
+      "foto": "jogo9.PNG",
+      "preco": 150
+    },
+    {
+      "id": 6,
+      "produto": "Battlefield 1",
+      "descricao": "Batalhas intensas da Primeira Guerra Mundial com gráficos realistas.",
+      "foto": "jogo5.PNG",
+      "preco": 245
+    }
+  ]
+}
